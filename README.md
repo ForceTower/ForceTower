@@ -7,7 +7,7 @@
 
 # About me
 
-- 💼 Mobile Developer, I main native Android 🤖, but sometimes I play with Flutter
+- 💼 Mobile Developer, mainly Android 🤖 sometimes other things.
 - 👨‍🎓  Computer Engineer at Universidade Estadual de Feira de Santana (UEFS)
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=ForceTower&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ForceTower/)
